@@ -27,7 +27,8 @@ These capabilities bring data analytics closer to **software engineering princip
 
 Let's walk through some of the core ideas and concepts behind DBT. This will help you build a mental model of what DBT does and how it fits into a typical data workflow.
 
-https://data-sleek.b-cdn.net/wp-content/uploads/2023/09/what_is_dbt_data_build_tool-data-sleek.jpg
+![What is dbt](https://data-sleek.b-cdn.net/wp-content/uploads/2023/09/what_is_dbt_data_build_tool-data-sleek.jpg)
+
 
 ### 1\. Transformations as Code
 
